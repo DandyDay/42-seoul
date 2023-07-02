@@ -10,3 +10,6 @@
 [submodule "2_circle/minitalk"]
 	path = 2_circle/minitalk
 	url = git@github.com:DandyDay/42-minitalk
+[submodule "2_circle/push_swap"]
+	path = 2_circle/push_swap
+	url = git@github.com:DandyDay/42-push_swap
