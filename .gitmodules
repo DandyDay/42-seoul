@@ -16,3 +16,6 @@
 [submodule "2_circle/FdF"]
 	path = 2_circle/FdF
 	url = git@github.com:DandyDay/42-FdF
+[submodule "3_circle/minishell"]
+	path = 3_circle/minishell
+	url = git@github.com:42SNU/minishell.git
