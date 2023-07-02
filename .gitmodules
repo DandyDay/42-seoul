@@ -19,3 +19,6 @@
 [submodule "3_circle/minishell"]
 	path = 3_circle/minishell
 	url = git@github.com:42SNU/minishell.git
+[submodule "3_circle/megashell"]
+	path = 3_circle/megashell
+	url = git@github.com:two-three-four-five/megashell
