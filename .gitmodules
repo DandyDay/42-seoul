@@ -13,3 +13,6 @@
 [submodule "2_circle/push_swap"]
 	path = 2_circle/push_swap
 	url = git@github.com:DandyDay/42-push_swap
+[submodule "2_circle/FdF"]
+	path = 2_circle/FdF
+	url = git@github.com:DandyDay/42-FdF
