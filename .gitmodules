@@ -7,3 +7,6 @@
 [submodule "1_circle/ft_printf"]
 	path = 1_circle/ft_printf
 	url = git@github.com:DandyDay/42-ft_printf.git
+[submodule "2_circle/minitalk"]
+	path = 2_circle/minitalk
+	url = git@github.com:DandyDay/42-minitalk
