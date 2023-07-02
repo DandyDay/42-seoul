@@ -4,3 +4,6 @@
 [submodule "1_circle/get_next_line"]
 	path = 1_circle/get_next_line
 	url = git@github.com:DandyDay/42-get_next_line.git
+[submodule "1_circle/ft_printf"]
+	path = 1_circle/ft_printf
+	url = git@github.com:DandyDay/42-ft_printf.git
