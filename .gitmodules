@@ -1,3 +1,6 @@
 [submodule "0_circle/libft"]
 	path = 0_circle/libft
 	url = git@github.com:DandyDay/42-libft
+[submodule "1_circle/get_next_line"]
+	path = 1_circle/get_next_line
+	url = git@github.com:DandyDay/42-get_next_line.git
