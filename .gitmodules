@@ -22,3 +22,6 @@
 [submodule "3_circle/megashell"]
 	path = 3_circle/megashell
 	url = git@github.com:two-three-four-five/megashell
+[submodule "3_circle/philosophers"]
+	path = 3_circle/philosophers
+	url = git@github.com:DandyDay/42-philosophers.git
