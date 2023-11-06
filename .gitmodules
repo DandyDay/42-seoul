@@ -25,3 +25,6 @@
 [submodule "3_circle/philosophers"]
 	path = 3_circle/philosophers
 	url = git@github.com:DandyDay/42-philosophers.git
+[submodule "4_circle/miniRT"]
+	path = 4_circle/miniRT
+	url = git@github.com:7daysRT/miniRT.git
