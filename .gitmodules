@@ -28,3 +28,6 @@
 [submodule "4_circle/miniRT"]
 	path = 4_circle/miniRT
 	url = git@github.com:7daysRT/miniRT.git
+[submodule "4_circle/cpp-module"]
+	path = 4_circle/cpp-module
+	url = git@github.com:DandyDay/42-cpp-module.git
