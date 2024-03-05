@@ -31,3 +31,6 @@
 [submodule "4_circle/cpp-module"]
 	path = 4_circle/cpp-module
 	url = git@github.com:DandyDay/42-cpp-module.git
+[submodule "5_circle/webserv"]
+	path = 5_circle/webserv
+	url = git@github.com:two-three-four-five/webserv
