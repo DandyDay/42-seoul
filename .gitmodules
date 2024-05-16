@@ -34,3 +34,6 @@
 [submodule "5_circle/webserv"]
 	path = 5_circle/webserv
 	url = git@github.com:two-three-four-five/webserv
+[submodule "5_circle/inception"]
+	path = 5_circle/inception
+	url = git@github.com:DandyDay/42-inception.git
